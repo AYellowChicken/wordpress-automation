@@ -1,0 +1,1 @@
+{"_lscache_vary": "THE_VALUE", "wordpress_sec_<SOME_RANDOM_ID>": "<your_cookie>", "wordpress_logged_in_<some_random_id>": "<your_cookie>"}

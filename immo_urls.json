@@ -1,0 +1,5 @@
+{
+    "URL_POST": "https://HOSTNAME.com/wp-admin/post.php",
+    "URL_BIEN": "https://HOSTNAME.com/bien",
+    "URL_EDIT": "https://HOSTNAME.com/wp-admin/edit.php?post_type=property&orderby=date&order=desc"
+}
